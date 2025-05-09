@@ -11,7 +11,7 @@ logging.basicConfig(
 logger = logging.getLogger(__name__)
 
 # Replace with your BotFather token
-BOT_TOKEN = "7627054659:AAE9-HQLxKjkMSQZPFMB753kfkEzmcpgzOo"
+BOT_TOKEN = ""
 
 # --- HANDLER FUNCTION DEFINITIONS ---
 
